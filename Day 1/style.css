@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body{
+    background: #f1f1f1;
+}
+
+
+
+.sm {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+
+.sm a{
+    display: inline-flex;
+    width: 40px;
+    height: 40px;
+    background: #3D9970;
+    color: white;
+    margin: 0 8px;
+    border-radius: 60%;
+    justify-content: center;
+    align-items: center;
+    transition: 0.4s;
+    font-size: 20px;
+}
+
+.sm a:hover{
+    background: green;
+}
+
+.sm a i{
+    transition: 0.4s all;
+}
+
+.sm a:hover > i{
+    transform: scale(1.4) rotate(25deg);
+}
