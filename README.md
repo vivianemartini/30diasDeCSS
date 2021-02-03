@@ -43,3 +43,4 @@ Dia 30 - Fogos de artificio<br>
 
 Dia 1 - Ícone de mídia social em camadas
 
+![day one](https://raw.githubusercontent.com/vivianemartini/30diasDeCSS/main/day%201.webp)
