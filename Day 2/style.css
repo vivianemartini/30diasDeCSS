@@ -1,0 +1,32 @@
+body {
+    background: #DAF2F1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.loader {
+    border: 10px solid rgba(0, 0, 0, .1);
+    border-left-color:#FF9D6E;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+.text {
+    width: 55px;
+    height: 25px;
+    position: absolute;
+    font-size: 1em;
+    background: transparent;
+    font-family: 'Open-Sans-Condensed', sans-serif ;
+
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
