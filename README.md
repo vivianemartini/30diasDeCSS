@@ -39,3 +39,8 @@ Dia 27 - Efeito pulsar<br>
 Dia 28 - Cor do background mudando<br>
 Dia 29 - Menu responsivo com Media Queries<br>
 Dia 30 - Fogos de artificio<br>
+
+
+Dia 1 - Ícone de mídia social em camadas
+
+https://media.giphy.com/media/hjwo1wDvdwF9emhEfN/giphy.gif
