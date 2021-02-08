@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #fbefcc;
+
+}
+
+.circle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.pulse {
+    height: 100px;
+    width: 100px;
+    background-color:#f4a688 ;
+    border-radius: 50%;
+    font-size: 20px;
+    text-align: center;
+    line-height: 100px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    animation: animate 3s infinite;
+    color: whitesmoke;
+    text-align: center;
+}
+
+
+
+@keyframes animate{
+    0%{
+        box-shadow: 0 0 0 0 rgba(224,135,106, 0.8), 0 0 0 0 rgba(224,135,106, 0.8);
+    }
+    40%{
+        box-shadow: 0 0 0 50px rgba(224,135,106, 0), 0 0 0 0 rgba(224,135,106, 0.8);
+    }
+    80%{
+        box-shadow: 0 0 0 50px rgba(224,135,106, 0), 0 0 0 30px rgba(224,135,106, 0);
+    }
+    100%{
+        box-shadow: 0 0 0 0 rgba(224,135,106, 0), 0 0 0 30px rgba(224,135,106, 0);
+    }
+}
