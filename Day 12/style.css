@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 120px;
+    color: rgba(255, 99, 71, 0.336);
+    position: relative;
+}
+
+h1::before {
+    content: "#COVERGIRL";
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    color:#F64C72;
+    width: 0%;
+    overflow: hidden;
+    transition: all 0.6s;
+}
+
+h1:hover::before {
+    width: 100%
+}
