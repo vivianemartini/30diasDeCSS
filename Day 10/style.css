@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #A1C3D1;
+}
+
+h1 {
+    color: #E64398;
+    font-size: 70px;
+    font-family: 'Dosis', sans-serif;
+}
+
+span::before {
+    content: '';
+    animation: word-swith 3s infinite;
+}
+
+@keyframes word-swith 
+{
+    0% {content:'🚴🏻‍♀️'}
+
+    50% {content: '🍷'}
+
+    100% {content: '📚'}
+
+}
