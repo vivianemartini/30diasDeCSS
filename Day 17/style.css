@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #1F2833;
+   
+}
+
+.loader {
+    border: 18px solid #FEFFFF;
+    border-top: 18px solid #66FCF1;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    animation: spin 1.5s linear infinite; 
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg);}
+    100% {transform: rotate(360deg);}
+}
