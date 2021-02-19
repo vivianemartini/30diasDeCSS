@@ -23,7 +23,7 @@ Dia 11 - Botão com efeito hover<br>
 Dia 12 - Efeito de preenchimento ao passar o mouse<br>
 Dia 13 - Loading com efeito<br>
 Dia 14 - Fundo de texto animado<br>
-Dia 15 - Texto flutuante<br>
+Dia 15 - Texto flutuante 3D<br>
 Dia 16 - Botão com efeito<br>
 Dia 17 - Loader animado<br>
 Dia 18 - Texto esfumaçado<br>
