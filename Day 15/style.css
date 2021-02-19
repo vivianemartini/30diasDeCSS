@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    background:#FFD0B9;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 200px;
+    font-family: arial;
+    font-size: 5em;
+    line-height: 1em;
+    letter-spacing: 5px;
+    color: #E62E6B;
+    text-shadow: 0 1px 0 #efefef,
+                 0 2px 0 #efefef,
+                 0 3px 0 #efefef,
+                 0 4px 0 #efefef,
+                 0 30px 5px rgba(0, 0, 0, .1);
+    animation: animate 3s linear infinite;
+    animation-direction: alternate;
+}
+
+@keyframes animate {
+   
+    from { transform: rotate(5deg)}
+
+    to { transform: rotate(-5deg)}
+}
