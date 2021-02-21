@@ -6,7 +6,7 @@ Fala Devs, beleza? 🖖
 Estou iniciando o desafio de 30 dias de CSS para melhorar minhas habilidades em HTML5 e CSS3
 
 Regras gerais
-Realizar um projeto por dia
+Realizar um projeto por dia <br>
 O projeto deve ser concluído até 23:59
 
 Dia 01 - Ícone de mídia social em camadas<br>
