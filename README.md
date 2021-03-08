@@ -33,7 +33,7 @@ Dia 21 - Esferas quicando<br>
 Dia 22 - Icones com efeito<br>
 Dia 23 - Botão com efeito hover<br>
 Dia 24 - Preloader animado<br>
-Dia 25 - Checkbox animado<br>
+Dia 25 - Animação em camadas<br>
 Dia 26 - Loading com efeito<br>
 Dia 27 - Efeito pulsar<br>
 Dia 28 - Cor do background mudando<br>
