@@ -36,7 +36,7 @@ Dia 24 - Preloader animado<br>
 Dia 25 - Animação em camadas<br>
 Dia 26 - Animação com card de produto<br>
 Dia 27 - Ping Pong Loader<br>
-Dia 28 - Cor do background mudando<br>
+Dia 28 - Weekend Loading<br>
 Dia 29 - Menu responsivo com Media Queries<br>
 Dia 30 - Fogos de artificio<br>
 
