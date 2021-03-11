@@ -37,7 +37,7 @@ Dia 25 - Animação em camadas<br>
 Dia 26 - Animação com card de produto<br>
 Dia 27 - Ping Pong Loader<br>
 Dia 28 - Weekend Loading<br>
-Dia 29 - Menu responsivo com Media Queries<br>
+Dia 29 - Animação em card de informações para contato<br>
 Dia 30 - Fogos de artificio<br>
 
 Dia 1 - Ícone de mídia social em camadas
@@ -124,4 +124,12 @@ Dia 21 - Esferas quicando
 
 ![Day.21](https://media.giphy.com/media/fCpccbDk1qLkUXFy2A/giphy.gif)
 
-
+Dia 22 - Icones com efeito<br>
+Dia 23 - Botão com efeito hover<br>
+Dia 24 - Preloader animado<br>
+Dia 25 - Animação em camadas<br>
+Dia 26 - Animação com card de produto<br>
+Dia 27 - Ping Pong Loader<br>
+Dia 28 - Weekend Loading<br>
+Dia 29 - Animação em card de informações para contato<br>
+Dia 30 - Fogos de artificio<br>
