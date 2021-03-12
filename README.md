@@ -125,11 +125,37 @@ Dia 21 - Esferas quicando
 ![Day.21](https://media.giphy.com/media/fCpccbDk1qLkUXFy2A/giphy.gif)
 
 Dia 22 - Icones com efeito<br>
+
+![Day.22](https://media.giphy.com/media/vHKZCux9IAwW8XcRxo/giphy.gif)
+
 Dia 23 - Botão com efeito hover<br>
+
+![Day.23](https://media.giphy.com/media/ZHud0J43YbyjH77Tzg/giphy.gif)
+
 Dia 24 - Preloader animado<br>
+
+![Day.24](https://media.giphy.com/media/wFsW5mQApQT8gDktwz/giphy.gif)
+
 Dia 25 - Animação em camadas<br>
+
+![Day.25](https://media.giphy.com/media/OPNiPkawl3qYf4xUs8/giphy.gif)
+
 Dia 26 - Animação com card de produto<br>
+
+![Day26](https://media.giphy.com/media/rYQmkkkDBqyTVNTI74/giphy.gif)
+
 Dia 27 - Ping Pong Loader<br>
+
+![Day27](https://media.giphy.com/media/jL69sAQ7PtuvGp3JBt/giphy.gif)
+
 Dia 28 - Weekend Loading<br>
+
+![Day28](https://media.giphy.com/media/h09aEUY2WZsZa0vKgM/giphy.gif)
+
 Dia 29 - Animação em card de informações para contato<br>
+
+![Day29](https://media.giphy.com/media/E0dUfYJwRiFvShKx0e/giphy.gif)
+
 Dia 30 - Fogos de artificio<br>
+
+![Day30](
