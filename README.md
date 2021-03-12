@@ -158,4 +158,4 @@ Dia 29 - Animação em card de informações para contato<br>
 
 Dia 30 - Fogos de artificio<br>
 
-![Day30](
+![Day30](https://media.giphy.com/media/dKVifUkQPxMCJSamKO/giphy.gif)
